@@ -1,3 +1,4 @@
+# Check brackets in message
 def check_brackets(msg):
     stack = []
     for idx in range(len(msg)):
